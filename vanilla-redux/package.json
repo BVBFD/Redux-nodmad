@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-redux",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
